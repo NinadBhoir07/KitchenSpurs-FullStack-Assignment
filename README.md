@@ -1,4 +1,4 @@
-###Restaurant Analytics — Local Setup
+### Restaurant Analytics — Local Setup
 
 A concise, step-by-step guide to run the project locally.
 
